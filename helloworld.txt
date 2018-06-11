@@ -4,6 +4,8 @@
 Hello World..Welcome to GitHub
 
 Happy Coding!
+Lets create some code in Java
+Done with the Hello World..
 
 Thanks!!
 
